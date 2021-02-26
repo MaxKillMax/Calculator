@@ -1,0 +1,10 @@
+D:\Visual Studio\Projects\Calculator\Calculator\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\Visual Studio\Projects\Calculator\Calculator\WindowsForms\bin\Debug\WindowsForms.exe
+D:\Visual Studio\Projects\Calculator\Calculator\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\Visual Studio\Projects\Calculator\Calculator\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+D:\Visual Studio\Projects\Calculator\Calculator\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+D:\Visual Studio\Projects\Calculator\Calculator\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\Visual Studio\Projects\Calculator\Calculator\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\Calculator\Calculator\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Calculator\Calculator\WindowsForms\obj\Debug\WindowsForms.exe
+D:\Visual Studio\Projects\Calculator\Calculator\WindowsForms\obj\Debug\WindowsForms.pdb
